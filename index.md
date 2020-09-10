@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+## Assalamu'alaikum sholih sholihah
 
-You can use the [editor on GitHub](https://github.com/anilistriyana/crossword/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Semoga Allah memberkahi kalian semua. Kita akan bersama mengisi kotak di bawah ini dengan nama yang tercantum. Mendatar adalah siswa perempuan, menurun adalah siswa laki-laki.
+<iframe width="100%" height="100%" src="//jsfiddle.net/yanuarea_/donkgj84/4/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ```markdown
 Syntax highlighted code block
