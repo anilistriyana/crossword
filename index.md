@@ -6,7 +6,7 @@ Semoga Allah memberkahi kalian semua. Kita akan bersama mengisi kotak di bawah i
 
 ![](laki.png)
 
-<script async src="//jsfiddle.net/yanuarea_/5uxfdayj/2/embed/result/"></script>
+<iframe width="100%" height="550" src="//jsfiddle.net/yanuarea_/5uxfdayj/2/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 
 ### Setelah selesai menjawabnya, ananda bisa melakukan screenshot dan mengirim ke ustadzah ya. Terima kasih.
